@@ -58,3 +58,6 @@ plt.show()
 
 ## RESULT :
 Thus, a Python program is simulated and visualized to perform Phase Shift Keying (BPSK) modulation and demodulation using a low-pass filter for signal recovery.
+## HARDWARE EXP :
+![WhatsApp Image 2025-05-06 at 11 36 29_1ba17dd8](https://github.com/user-attachments/assets/0bd891fb-fb39-4963-89ce-2ef017c48ddf)
+
